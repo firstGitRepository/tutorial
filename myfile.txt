@@ -1,3 +1,4 @@
 myfile
 add issue1
 commit 提交索引
+push 推送索引
